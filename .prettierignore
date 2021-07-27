@@ -1,0 +1,16 @@
+src/mock/mock.js
+
+package.json
+package-lock.json
+node_modules
+.idea
+yarn-lock.json
+dist
+
+tests/integration/.next
+tests/integration/node_modules
+
+packages
+.tmp
+es
+lib
