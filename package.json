@@ -38,6 +38,6 @@
     "vite-plugin-style-import": "^0.10.1"
   },
   "lint-staged": {
-    "*.{js,css,md}": "prettier --write"
+    "*.{js,css,md,jsx,tsx,ts}": "prettier --write"
   }
 }
